@@ -1,5 +1,8 @@
 # input_data_buku
 
+![input](https://user-images.githubusercontent.com/102226851/175789530-d573245b-fa61-4004-b068-ebcdd1727861.JPG)
+![data](https://user-images.githubusercontent.com/102226851/175789534-0e99f02d-d97e-449f-9f8d-ce09fe8c1fef.JPG)
+
 A new Flutter project.
 
 ## Getting Started
